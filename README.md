@@ -3,4 +3,4 @@
 
 蒼霞草20巻、續草22巻、餘草14巻、蒼霞草詩8巻，共64冊，逐冊 PDF 存在本倉庫根目錄。
 
-有八冊超過 GitHub 單文件上限，已拆成 .00／.01 兩份，下載後須合併，辦法見「下載說明.txt」。
+六十四冊 PDF 在本倉庫 Release v1 頁面作附件提供下載，皆為完整原文件：https://github.com/washear/cangxiacao/releases/tag/v1 。分冊對應見「下載說明.txt」。
